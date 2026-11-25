@@ -1,0 +1,11 @@
+# Playwright / diagnostic artifacts
+.playwright-cli/
+.probe/
+
+# Dependencies and logs
+node_modules/
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db

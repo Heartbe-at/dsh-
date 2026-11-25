@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Delete Session",
+    "description": "Right-click a session in the left sidebar to delete it: hide it now, queue cleanup, and remove session files on the next DSH start.",
+    "detail": "docs/DETAIL.md"
+  }
+}
